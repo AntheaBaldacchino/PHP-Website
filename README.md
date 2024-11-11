@@ -49,7 +49,6 @@ $dbname = "novelnook_db";`
 Start your server and navigate to http://localhost/NovelNook/index.php to access the application.
 
 ##  Usage
-Register/Login: Begin by creating an account or logging in as an existing user.
-Manage Books: Use the dashboard to add new books, edit details, or remove them as needed.
-Browse Collection: View the entire book collection on the homepage, along with cover images and book details.
-Contributing
+-   Register/Login: Begin by creating an account or logging in as an existing user.
+-   Manage Books: Use the dashboard to add new books, edit details, or remove them as needed.
+-   Browse Collection: View the entire book collection on the homepage, along with cover images and book details.
